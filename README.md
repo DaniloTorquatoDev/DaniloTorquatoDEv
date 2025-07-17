@@ -39,7 +39,7 @@
   <a href="https://www.instagram.com/danilotlt7/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="instagram logo"  />
   </a>
-  <a href="www.linkedin.com/in/danilotorquato" target="_blank">
+  <a href="[www.linkedin.com/in/danilotorquato](https://www.linkedin.com/in/danilo-torquato-b15304369/)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="linkedin logo"  />
   </a>
 </div>
