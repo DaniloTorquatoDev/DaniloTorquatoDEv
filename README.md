@@ -52,6 +52,5 @@
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DaniloTorquatoDev.DaniloTorquatoDev&left_color=darkgreen&right_color=darkgray&left_text=VISITANTES"  />
 
 ###
